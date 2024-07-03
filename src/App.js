@@ -4,7 +4,7 @@ import PhoneOtpForm from './components/PhoneOtpForm.js';
 function App() {
   return (
     <div className="App">
-      <h1>Logon with Phone</h1>
+      <h1>Login with Phone</h1>
       < PhoneOtpForm />
     </div>
   );
